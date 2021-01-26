@@ -1,0 +1,16 @@
+.btn-danger {
+  background-color: rgb(226, 47, 47);
+  transition: transform 0.3s linear;
+}
+.btn-danger:hover {
+  background-color: rgb(245, 67, 67);
+  transform: scale(1.2);
+}
+
+.fav_padd {
+  padding: 30px 0;
+}
+.Pokemon_Fav_Img {
+  max-width: 300px;
+  width: 100%;
+}

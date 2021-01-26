@@ -1,0 +1,13 @@
+.PokeDetails_container {
+  padding: 20px 20px;
+}
+
+.Pokemon_Details_Img {
+  max-width: 500px;
+  width: 100%;
+}
+.Pokemon_Info_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

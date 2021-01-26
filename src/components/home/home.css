@@ -1,0 +1,22 @@
+.card_container {
+  padding: 20px;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: 1px solid;
+  margin: 10px;
+  max-width: 600px;
+  border-radius: 8px;
+  width: 100%;
+}
+.pagination {
+  max-width: 500px;
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  padding: 0;
+  cursor: default;
+}
